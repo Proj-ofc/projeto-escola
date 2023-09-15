@@ -1,0 +1,30 @@
+.fm {
+  display: flex;
+  flex-direction: column;
+  gap: .25rem;
+  text-align: center;
+  margin-left:15rem ;
+  margin-right:15rem ;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+
+input {
+  font-size: 1.5rem;
+}
+
+label{
+  text-align: center;
+  margin: auto;
+}
+
+#rs{
+  margin-right: 0%;
+  padding-right: 0%;
+  margin-left: 5rem;
+}
+
+#lb3{
+  margin-right: 3rem;
+}
+
