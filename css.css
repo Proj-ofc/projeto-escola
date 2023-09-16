@@ -1,0 +1,36 @@
+.nav-text{
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24.64px;
+line-height: 34px;
+text-align: right;
+
+color: #000000;
+
+}
+
+.nav-text:hover{
+
+    color:darkred
+
+}
+
+.nav-btn:hover{
+
+    color:darkred
+
+}
+
+
+
+.overlay {
+    position: absolute;
+    top: 450px;
+    left: 135px;
+    z-index: 1;
+    background-color: white; 
+    padding: 20px;
+  }
+  
