@@ -1,0 +1,36 @@
+UPDATE biblioteca
+SET img_livro = 'https://drive.google.com/uc?export=view&id=1LL4gmQHfBhkimW_GC2AGU7XaQYFRw2ev'
+WHERE livro = 'Dom Casmurro';
+
+-- Atualiza o livro 'Memórias Póstumas de Brás Cubas'
+UPDATE biblioteca
+SET img_livro = 'https://drive.google.com/uc?export=view&id=1PCpjBJ0DR1EwuZL5pj8RWnZOfUfzVmGf'
+WHERE livro = 'Memórias Póstumas de Brás Cubas';
+
+UPDATE biblioteca
+SET img_livro = 'https://drive.google.com/uc?export=view&id=1eIAhgtLWKxBQ5ZH77cRxgQu0H3Qwd20L'
+WHERE livro = 'Memórias Póstumas de Brás Cubas';
+
+UPDATE biblioteca
+SET img_livro = 'https://drive.google.com/uc?export=view&id=1ETQq9bLlwN-uTxTjMpenXcx621TC7_Da'
+WHERE livro = 'Memórias Póstumas de Brás Cubas';
+
+('https://drive.google.com/uc?export=view&id=1LL4gmQHfBhkimW_GC2AGU7XaQYFRw2ev'), 1
+('https://drive.google.com/uc?export=view&id=1PCpjBJ0DR1EwuZL5pj8RWnZOfUfzVmGf'), 2
+('https://drive.google.com/uc?export=view&id=1eIAhgtLWKxBQ5ZH77cRxgQu0H3Qwd20L'), 3
+('https://drive.google.com/uc?export=view&id=1ETQq9bLlwN-uTxTjMpenXcx621TC7_Da'), 4
+('https://drive.google.com/uc?export=view&id=1sEdB3ioixw-WPJDnaWlLdvMQJtmhCaN1'),
+('https://drive.google.com/uc?export=view&id=1hZcxDUvk6qg9bN9e8D4-iLyuyJtZ6gbV'),
+('https://drive.google.com/uc?export=view&id=1iEcCYVnRHSyoK6i78BV8GG6XnHqkeYOs'),
+('https://drive.google.com/uc?export=view&id=1YjGpobVBeu9Xk-G7ISK0OKfv6K9KSEn1'),
+('https://drive.google.com/uc?export=view&id=1r0mSBqQbfh6tTo-6GGoxFx7PVywosNdZ'),
+('https://drive.google.com/uc?export=view&id=1A99QtvPLM6diuWa4cXPkFA5JV6fkZ6--'),
+('https://drive.google.com/uc?export=view&id=1ETQq9bLlwN-uTxTjMpenXcx621TC7_Da'),
+('https://drive.google.com/uc?export=view&id=1dB56fNTsPrzO4viXAHVij1d4Kacf3bP2'),
+('https://drive.google.com/uc?export=view&id=1opIhRBykg-9pCtxp_SU3qCkoYEIGvHhg'),
+('https://drive.google.com/uc?export=view&id=1EIj863t9dtBmUdS47XyYvI8JcnewcupC'),
+('https://drive.google.com/uc?export=view&id=19wNGA3UsX7I1hOkIgwOqg6Ec1lxjm_f3'),
+('https://drive.google.com/uc?export=view&id=1o_Ki7DQPQcagb5AjBJMr9xmiryzCWdWF'),
+('https://drive.google.com/uc?export=view&id=1bfpSp9jtUbKX5-iziPhy5tCNoxFLZYWb'),
+('https://drive.google.com/uc?export=view&id=1ePKsECDZULxRfGGnm9FNtBiBIH-rnSzd'),
+('https://drive.google.com/uc?export=view&id=17alCZxyMJWvZviCjnef5b53dNDRgKmgK'),
