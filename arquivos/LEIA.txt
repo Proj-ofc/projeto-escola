@@ -1,3 +1,0 @@
-essa pasta upload é onde estão as fotos do usuário ou professor, 
-aqui no caso é só para testes, então coloquei quaquer besteira só pra ver se tava funcionando enquanto fazia a página. 
-Se formos usar isso na 000webhost tem que colocar as imagens em outro lugar.
