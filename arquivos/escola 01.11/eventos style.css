@@ -1,0 +1,67 @@
+.fundo{
+    background-color: #FFFFFF;
+    border:solid #A71501 40px;
+    padding: 20px;
+    height: auto;
+    width: auto;
+}
+
+.cards_geral {
+    display: flex;
+    justify-content: space-around;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    flex-wrap: wrap;
+    background: 100%;
+}
+  
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+    gap: 10px; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center; 
+    border: 1px solid #ccc;
+  }
+
+  .cards img {
+    max-width: 100%; 
+    height: auto;
+    display: block; 
+    max-width: 100%
+  }
+
+.desc{
+    font-size:37.93px;
+    font-family: 'Stardos Stencil', Open-Sans;
+}
+
+.logo{
+    text-align: right;
+    padding: 25px;
+    margin-top: 12px;
+}
+
+.cima{
+        display: flex;
+        text-align: center;
+        justify-content: space-between;
+        padding: 25px;
+        padding-top: 100px;
+        flex-wrap: wrap; 
+
+}
+#eventos{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 74.33px;
+}
+.usu{
+    border-radius: 600px;
+}
+.subcont2{
+    gap: 50px;
+    display: flex;
+}
+#sair{
+    margin-top: 20px;
+}

@@ -1,0 +1,15 @@
+/* .formulario{
+    display: flex;
+    grid-template-columns: minmax(300px, 1fr);
+} */
+
+.imagem {
+    width: 150px; /* Adjust the width as per your design */
+    height: 200px; /* Adjust the height as per your design */
+    overflow:hidden;
+}
+
+.card{
+    width: 300px;
+    height: 400px; 
+}

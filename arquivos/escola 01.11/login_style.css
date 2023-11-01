@@ -1,0 +1,106 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    }
+    
+
+nav{
+    background-color: #FFFFFF;
+}
+.navbar-collapse{
+   justify-content: center;
+    font-family: Open Sans;
+     font-size: 25px;
+      font-weight: 700;
+       line-height: 34px;
+        letter-spacing: 0em;
+         text-align: right;
+}
+.nav-link{
+    color: #000000;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 30px;
+  }
+
+.retangulo{
+    justify-content: center;
+    display: flex;
+    margin-top: 20rem;
+}
+.formulario{
+width: 529px;
+height: 415px;
+top: 367px;
+border-radius: 30.71px;
+background: #FFFFFF80;
+text-align: center;
+
+}
+
+/* form{
+    justify-content: center;
+    align-items: center;
+} */
+
+h2{
+    padding-top: 2rem ;
+    padding-bottom: 2rem ;
+}
+
+#login{
+    margin-right: 10rem ;
+    margin-left: 8rem ;
+    margin-bottom: 2rem;
+    font-size: 24.33px;
+    text-align: center;
+    align-items: center;
+}
+
+#senha{
+    margin-right: 10rem ;
+    margin-left: 8rem ;
+    margin-bottom: 1rem;
+    font-size: 24.33px;
+    text-align: center;
+    align-items: center;
+}
+
+#es{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.center-container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  #entrar {
+    width: 124px;
+    height: 46px;
+    background: #A71501;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+}
+
+body{
+    background-image: url(fundo.png);
+    background-repeat: no-repeat;
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+    background-size: 100% 100%;
+}

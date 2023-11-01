@@ -1,0 +1,80 @@
+.fundo{
+    background-color: #FFFFFF;
+    border:solid #A71501 40px;
+    height: 100%;
+    width: 100%;
+}
+
+.opcoes{
+width: 210px;
+height: 60px;
+top: 133px;
+left: 113px;
+background: #D9D9D9;
+text-align: center;
+padding-top: 12px;
+justify-content: space-between;
+}
+
+#cont1{
+display: flex;
+text-align: center;
+justify-content: space-between;
+padding: 50px;
+padding-top: 100px;
+}
+
+.subcont1{
+    display: flex; 
+    justify-content: space-between; 
+    gap: 30px;
+    padding-left: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+}
+
+.subcont2{
+    gap: 50px;
+    display: flex;
+}
+
+#sair{
+    margin-top: 20px;
+}
+
+.logo{
+    text-align: right;
+    padding: 25px;
+    margin-top: 12px;
+}
+
+#logo{
+    width: 108px;
+    height: 122.73px;
+    top: 837px;
+    left: 1259px;
+}
+
+.usu{
+    border-radius: 600px;
+}
+.cont2{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-top: 300px;
+}
+
+.subcont3 {
+    margin-top: 150px;
+    font-family: 'Stardos Stencil';
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: right;
+}
+
